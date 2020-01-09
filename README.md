@@ -1,5 +1,5 @@
-# DigitRecognition
-Digit Recognition program in Python
+# CaptchaRecognition
+Captcha Recognition program in Python
 Libraries used
 Tensorflow
 mathplotlib
